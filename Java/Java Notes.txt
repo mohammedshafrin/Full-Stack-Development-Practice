@@ -6,3 +6,7 @@ Java editions :
 JDK ------> java development kit
 JRE ------> java runtime enviroment
 JVM ------> java virtual machine
+
+class loaders
+.class files loads into JVM memory(method area,metaspace)
+
