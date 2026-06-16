@@ -3,4 +3,6 @@ Java editions :
 2. j2EE - java Enterprise edition (Websites)
 3. j2ME - java Micro edition(old android games and small devices)
 
-jdk -   
+JDK ------> java development kit
+JRE ------> java runtime enviroment
+JVM ------> java virtual machine
