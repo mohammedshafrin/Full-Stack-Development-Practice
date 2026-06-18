@@ -16,10 +16,10 @@ public class Arithmetic {
         int multiplication = number1  * number2; 
         int division = number1 / number2;
 
-        System.out.println("addition : " + addition);
-        System.out.println("subtraction : " + subtraction);
-        System.out.println("multiplication : " + multiplication);
-        System.out.println("division : " + division);
+        System.out.println("Addition : " + addition);
+        System.out.println("Subtraction : " + subtraction);
+        System.out.println("Multiplication : " + multiplication);
+        System.out.println("Division : " + division);
 
         input.close();
 
