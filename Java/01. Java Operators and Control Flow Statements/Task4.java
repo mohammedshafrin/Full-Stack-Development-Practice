@@ -1,6 +1,8 @@
+// Create a program to check whether a person is eligible for voting. //
+
 import java.util .Scanner;
 
-public class Vote {
+public class Task4 {
 
     public static void main(String[]args){
         // sacnner create //

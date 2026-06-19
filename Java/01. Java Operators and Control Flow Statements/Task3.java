@@ -1,6 +1,8 @@
+// Create a program to find the largest of two numbers. //
+
 import java.util.Scanner;
 
-public class Largest {
+public class Task3 {
 
     public static void main(String[]args){
         Scanner input = new Scanner(System.in);

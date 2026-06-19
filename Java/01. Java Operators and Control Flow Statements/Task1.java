@@ -1,8 +1,11 @@
+// Create a program to perform addition, subtraction, multiplication, and division of two numbers. //
+
 import java.util.Scanner;
 
-public class Arithmetic {
+public class Task1 {
 
     public static void main(String[]args){
+        
         Scanner input = new Scanner(System.in);
 
         System.out.println("Enter the first number :");

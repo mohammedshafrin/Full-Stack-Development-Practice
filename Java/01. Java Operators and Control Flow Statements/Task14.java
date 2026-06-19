@@ -1,12 +1,14 @@
+// Create a program to display month names using switch statement. //
+
 import java.util.Scanner;
 
-public class Months {
+public class Task14 {
 
     public static void main(String[]args){
 
         Scanner input = new Scanner(System.in);
-        System.out.print("Enter the number between 1 to 12 :");
 
+        System.out.print("Enter the number between 1 to 12 :");
         int a = input.nextInt();
 
         switch (a) {

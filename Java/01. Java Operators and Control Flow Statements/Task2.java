@@ -1,6 +1,8 @@
+// Create a program to check whether a number is even or odd. //
+
 import java.util.Scanner;
 
-public class Evennumber{
+public class Task2{
 
     public static void main(String[]args) {
 
